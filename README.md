@@ -1,3 +1,4 @@
+<!--
 <!DOCTYPE html> 
 <html> 
 <head> 
@@ -13,8 +14,9 @@
         display: inline-block;
         float: right;
     }
-</style>
+    </style>
 </head> 
+    -->
 
 <h1 align="center">Hello there 👋, I'm Jorge Pérez</h1>
 <h3 align="center">happy normal human</h3>
