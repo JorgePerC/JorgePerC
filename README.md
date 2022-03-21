@@ -1,5 +1,6 @@
 <!DOCTYPE html> 
 <html> 
+<head> 
     <style>
     .vertical {
         border-left: 5px solid white;
@@ -13,6 +14,7 @@
         float: right;
     }
 </style>
+</head> 
 
 <h1 align="center">Hello there 👋, I'm Jorge Pérez</h1>
 <h3 align="center">happy normal human</h3>
