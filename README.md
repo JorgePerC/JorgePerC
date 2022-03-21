@@ -1,3 +1,10 @@
+<style>
+    .vertical {
+        border-left: 5px solid black;
+        height: 200px;
+    }
+</style>
+
 <h1 align="center">Hello there 👋, I'm Jorge Pérez</h1>
 <h3 align="center">happy normal human</h3>
 
@@ -18,7 +25,7 @@
     
 </section>
 
-<aside>
+<aside  class= "vertical">
     <p>holiwiws</p>
     <iframe src="https://giphy.com/embed/H9M7lvORlmeFmvGoqY" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/doodles-robot-bot-doodle-H9M7lvORlmeFmvGoqY">via GIPHY</a></p>
 </aside>
