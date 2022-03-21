@@ -1,7 +1,7 @@
 <h1 align="center">Hello there 👋, I'm Jorge Pérez</h1>
 <h3 align="center">happy normal human</h3>
 
-- 🔭 I’m currently working on [KPMG México](https://home.kpmg/mx/es/home.html)
+- 🔭 I’m currently working at [KPMG México](https://home.kpmg/mx/es/home.html)
 - 🤖 I’m on my to become a Robotics engineer @ [Tec Mty](https://tec.mx/es)
 
 - 🌱 I’m currently learning **ROS, ADF & Power Apps**
@@ -11,9 +11,14 @@
 <hr>
 <h4>You can find me at:</h4>
 
+<section>
 <p align="left">
 <a href="https://linkedin.com/in/jorge-p%c3%a9rez-10ab48191" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jorge-p%c3%a9rez-10ab48191" height="30" width="40" /></a>
 </p>
+</section>
+<aside>
+    <iframe src="https://giphy.com/embed/H9M7lvORlmeFmvGoqY" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/doodles-robot-bot-doodle-H9M7lvORlmeFmvGoqY">via GIPHY</a></p>
+</aside>
 
 <hr>
 
