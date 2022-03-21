@@ -3,6 +3,13 @@
         border-left: 5px solid black;
         height: 200px;
     }
+    
+    aside {
+        background-color: orange;
+        width: 40%;
+        display: inline-block;
+        float: right;
+    }
 </style>
 
 <h1 align="center">Hello there 👋, I'm Jorge Pérez</h1>
