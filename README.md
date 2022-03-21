@@ -27,7 +27,7 @@
 
 <aside  class= "vertical">
     <p>holiwiws</p>
- <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/H9M7lvORlmeFmvGoqY" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/doodles-robot-bot-doodle-H9M7lvORlmeFmvGoqY">via GIPHY</a></p>
+![image](https://user-images.githubusercontent.com/42452493/159203560-bcbbe906-64e7-463e-bd43-f0ee40f3a7d3.png)
 </aside>
 
 <hr>
