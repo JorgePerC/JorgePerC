@@ -1,6 +1,8 @@
-<style>
+<!DOCTYPE html> 
+<html> 
+    <style>
     .vertical {
-        border-left: 5px solid black;
+        border-left: 5px solid white;
         height: 200px;
     }
     
@@ -66,3 +68,4 @@
 <hr>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jorgeperc&show_icons=true&locale=en&layout=compact" alt="jorgeperc" /></p>
+</html> 
