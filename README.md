@@ -30,18 +30,15 @@
 
 <hr>
 <section>
-<h4>You can find me at:</h4>
 
+| <h4>You can find me at:</h4>  |   |
+|---|---|
+|   | ![Alt Text](https://media.giphy.com/media/H9M7lvORlmeFmvGoqY/giphy.gif)  |
 <p align="left">
 <a href="https://linkedin.com/in/jorge-p%c3%a9rez-10ab48191" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jorge-p%c3%a9rez-10ab48191" height="30" width="40" /></a>
 </p>
-<!--- 
-<aside  class= "vertical">
-    <a> 
-        <img src="https://user-images.githubusercontent.com/42452493/159203560-bcbbe906-64e7-463e-bd43-f0ee40f3a7d3.png" width="40" height="40"/> </a> 
-</aside>
-</section>
---->
+    ![Alt Text](https://media.giphy.com/media/H9M7lvORlmeFmvGoqY/giphy.gif)
+
 <hr>
 
 <h3 align="left">Languages and Tools:</h3>
