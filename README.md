@@ -24,7 +24,7 @@
 - 🔭 I’m currently working at [KPMG México](https://home.kpmg/mx/es/home.html)
 - 🤖 I’m on my to become a Robotics engineer @ [Tec Mty](https://tec.mx/es)
 
-- 🌱 I’m currently learning **ROS, ADF & Power Apps**
+- 🌱 I’m learning **ROS, ADF & Power Apps**
 
 - 💬 Ask me about **FRC**
 
