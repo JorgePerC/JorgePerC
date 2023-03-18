@@ -19,14 +19,14 @@
     -->
 
 <h1 align="center">Hello there 👋, I'm Jorge Pérez</h1>
-<h3 align="center">happy normal human</h3>
+<h3 align="center"> Looking for a job on embedded systems 👀</h3>
 
-- 🔭 I’m currently working at [KPMG México](https://home.kpmg/mx/es/home.html) and [Sumitomo Drive](https://latam.sumitomodrive.com/es)
+- 🔭 I’ve worked at [KPMG México](https://home.kpmg/mx/es/home.html) and [Sumitomo Drive](https://latam.sumitomodrive.com/es)
 - 🤖 I’m on my to become a Robotics engineer @ [Tec Mty](https://tec.mx/es)
 
-- 🌱 I’m learning **ROS, ADF & Power Apps**
+- 🌱 I’m learning **Docker, ADF**
 
-- 💬 Ask me about **FRC**
+- 💬 Ask me about **FRC, ROS**
 
 <hr>
 <section>
