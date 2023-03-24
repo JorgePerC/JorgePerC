@@ -22,7 +22,7 @@
 <h3 align="center"> Looking for a job on embedded systems 👀</h3>
 
 - 🔭 I’ve worked at [KPMG México](https://home.kpmg/mx/es/home.html) and [Sumitomo Drive](https://latam.sumitomodrive.com/es)
-- 🤖 I’m on my to become a Robotics engineer @ [Tec Mty](https://tec.mx/es)
+- 🤖 I’m on my to become a Robotics engineer @ [Tec Mty](https://tec.mx/es) Summer 2023
 
 - 🌱 I’m learning **Docker, ADF**
 
@@ -31,10 +31,12 @@
 <hr>
 <section>
 
-| <h4>You can find me at:</h4> <p align="center"> <a href="https://linkedin.com/in/jorge-p%c3%a9rez-10ab48191" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jorge-p%c3%a9rez-10ab48191" height="30" width="40" /></a> </p> | <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jorgeperc&show_icons=true&locale=en&layout=compact" alt="jorgeperc" /></p> | <img src="https://media.giphy.com/media/H9M7lvORlmeFmvGoqY/giphy.gif" alt="coolRobot" width="300"/> |
+| <img src="https://github-readme-stats.vercel.app/api?username=jorgeperc&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/> | <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jorgeperc&show_icons=true&locale=en&layout=compact" alt="jorgeperc" /></p> | <img src="https://media.giphy.com/media/H9M7lvORlmeFmvGoqY/giphy.gif" alt="coolRobot" width="300"/> |
 | :---------------------------: | :---------------------: | :----:|
     
-<img src="https://github-readme-stats.vercel.app/api?username=jorgeperc&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
+
+<h2> You may get in touch through:</h2> <p align="center"> <a href="https://linkedin.com/in/jorge-p%c3%a9rez-10ab48191" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jorge-p%c3%a9rez-10ab48191" height="30" width="40" /></a> </p>
+    
 <hr>
 
 <h3 align="left">Languages and Tools:</h3>
