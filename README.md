@@ -31,10 +31,10 @@
 <hr>
 <section>
 
-| <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jorgeperc&theme=nord_dark" width="450"/> | <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jorgeperc&show_icons=true&locale=en&layout=compact" alt="jorgeperc" /></p> | <img src="https://media.giphy.com/media/H9M7lvORlmeFmvGoqY/giphy.gif" alt="coolRobot" width="300"/> |
+| <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jorgeperc&theme=nord_dark" width="450"/> | <p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jorgeperc&theme=nord_dark" alt="jorgeperc" /></p> | <img src="https://media.giphy.com/media/H9M7lvORlmeFmvGoqY/giphy.gif" alt="coolRobot" width="300"/> |
 | :---------------------------: | :---------------------: | :----:|
     
-    nord_dark
+    
 
 <h2> You may get in touch through:</h2> <p align="center"> <a href="https://linkedin.com/in/jorge-p%c3%a9rez-10ab48191" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jorge-p%c3%a9rez-10ab48191" height="30" width="40" /></a> </p>
     
