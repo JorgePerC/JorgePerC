@@ -31,7 +31,7 @@
 <hr>
 <section>
 
-| <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jorgeperc&theme=nord_dark" width="450"/> | <p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jorgeperc&theme=nord_dark" alt="jorgeperc" /></p> | <img src="https://media.giphy.com/media/H9M7lvORlmeFmvGoqY/giphy.gif" alt="coolRobot" width="300"/> |
+| <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jorgeperc&theme=nord_dark" width="450"/> | <p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jorgeperc&theme=nord_dark&exclude=html" alt="jorgeperc" /></p> | <img src="https://media.giphy.com/media/H9M7lvORlmeFmvGoqY/giphy.gif" alt="coolRobot" width="300"/> |
 | :---------------------------: | :---------------------: | :----:|
     
     
