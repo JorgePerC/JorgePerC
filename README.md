@@ -22,7 +22,7 @@
 <h3 align="center"> Looking for a job on embedded systems 👀</h3>
 
 - 🔭 I’ve worked at [KPMG México](https://home.kpmg/mx/es/home.html) and [Sumitomo Drive](https://latam.sumitomodrive.com/es)
-- 🤖 I’m on my to become a Robotics engineer @ [Tec Mty](https://tec.mx/es) Summer 2023
+- 🤖 Robotics and digital systems engineer @ [Tec Mty](https://tec.mx/es) 2023
 
 - 🌱 I’m learning **Docker, ADF**
 
