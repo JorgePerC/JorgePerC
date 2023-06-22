@@ -31,7 +31,7 @@
 <hr>
 <section>
 
-| <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jorgeperc&theme=nord_dark" width="425"/> | <p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jorgeperc&theme=nord_dark&exclude=html" width="425" /></p> | 
+| <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jorgeperc&theme=nord_dark" width="425"/> | <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jorgeperc&theme=nord_dark&exclude=html" width="425" /> | 
 | :---------------------------: | :---------------------: | 
     
     
@@ -42,7 +42,7 @@
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jorge-p%c3%a9rez-10ab48191" height="30" width="40" />
     </a>
     <a href="https://www.hackerrank.com/JPerdio?hr_r=1" target="_blank" rel="noreferrer"> 
-        <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-512.png" alt="python" width="40" height="40"/> 
+        <img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-512.png" alt="python" width="40" height="40"/> 
     </a> 
     
 </p>
