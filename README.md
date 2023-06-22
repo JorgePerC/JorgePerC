@@ -39,10 +39,10 @@
 <h2> You may get in touch through:</h2> 
 <p align="center"> 
     <a href="https://linkedin.com/in/jorge-p%c3%a9rez-10ab48191" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jorge-p%c3%a9rez-10ab48191" height="30" width="40" />
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jorge-p%c3%a9rez-10ab48191" height="60" width="60" />
     </a>
     <a href="https://www.hackerrank.com/JPerdio?hr_r=1" target="_blank" rel="noreferrer"> 
-        <img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-512.png" alt="python" width="40" height="40"/> 
+        <img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-512.png" alt="python" width="60" height="60"/> 
     </a> 
     
 </p>
