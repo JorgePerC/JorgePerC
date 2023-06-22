@@ -36,7 +36,16 @@
     
     
 
-<h2> You may get in touch through:</h2> <p align="center"> <a href="https://linkedin.com/in/jorge-p%c3%a9rez-10ab48191" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jorge-p%c3%a9rez-10ab48191" height="30" width="40" /></a> </p>
+<h2> You may get in touch through:</h2> 
+<p align="center"> 
+    <a href="https://linkedin.com/in/jorge-p%c3%a9rez-10ab48191" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jorge-p%c3%a9rez-10ab48191" height="30" width="40" />
+    </a>
+    <a href="https://www.hackerrank.com/JPerdio?hr_r=1" target="_blank" rel="noreferrer"> 
+        <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-512.png" alt="python" width="40" height="40"/> 
+    </a> 
+    
+</p>
     
 <hr>
 
@@ -62,15 +71,6 @@
         <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
     <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
-
-</p>
-
-<hr>
-<h3 align="left">Hackerrank profile:</h3>
-<p align="left"> 
-    <a href="https://www.hackerrank.com/JPerdio?hr_r=1" target="_blank" rel="noreferrer"> 
-        <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-512.png" alt="python" width="40" height="40"/> </a> 
-
 
 </p>
 
