@@ -22,6 +22,7 @@
 <h3 align="center"> Looking for an embedded systems job 👀</h3>
 
 - ⛰️ Currently as a DevOps engineer @ [Oracle](https://www.oracle.com/mx/)
+
 - 🔭 I’ve worked at [KPMG México](https://home.kpmg/mx/es/home.html) and [Sumitomo Drive](https://latam.sumitomodrive.com/es)
 - 🤖 Robotics and digital systems engineer @ [Tec Mty](https://tec.mx/es) 2023
 
