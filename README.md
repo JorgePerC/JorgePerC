@@ -26,9 +26,9 @@
 - 🔭 I’ve worked at [KPMG México](https://home.kpmg/mx/es/home.html) and [Sumitomo Drive](https://latam.sumitomodrive.com/es)
 - 🤖 Robotics and digital systems engineer @ [Tec Mty](https://tec.mx/es) 2023
 
-- 🌱 I’m learning **ROS2, Terraform, Linux**
+- 🧑🏽‍🏫 I'm a mentor for the Mexican [Robomaster](https://www.robomaster.com/en-US) team, Owltech 
 
-- 🧑🏽‍🏫 I'm a mentor for the Mexican Robomaster team, Owltech 
+- 🌱 I’m learning **ROS2, Terraform, Linux**
 
 - 💬 Ask me about **FRC, ROS, STM32, Robots, Robomaster NA**
 
