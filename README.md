@@ -21,14 +21,16 @@
 <h1 align="center">Hello there 👋, I'm Jorge Pérez</h1>
 <h3 align="center"> Looking for an embedded systems job 👀</h3>
 
-- ⛰️ Currently as a DevOps engineer @ [Oracle](https://www.oracle.com/mx/)
+- ⛰️ Currently as a DevOps/Software engineer @ [Oracle](https://www.oracle.com/mx/)
 
 - 🔭 I’ve worked at [KPMG México](https://home.kpmg/mx/es/home.html) and [Sumitomo Drive](https://latam.sumitomodrive.com/es)
 - 🤖 Robotics and digital systems engineer @ [Tec Mty](https://tec.mx/es) 2023
 
-- 🌱 I’m learning **Docker, Ansible, Terraform**
+- 🌱 I’m learning **ROS2, Terraform, Linux**
 
-- 💬 Ask me about **FRC, ROS, STM32, Robots**
+- 🧑🏽‍🏫 I'm a mentor for the Mexican Robomaster team, Owltech 
+
+- 💬 Ask me about **FRC, ROS, STM32, Robots, Robomaster NA**
 
 <hr>
 <section>
