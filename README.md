@@ -21,9 +21,12 @@
 <h1 align="center">Hello there 👋, I'm Jorge Pérez</h1>
 <h3 align="center"> Looking for an embedded systems job 👀</h3>
 
-- ⛰️ Currently as a DevOps/Software engineer @ [Oracle](https://www.oracle.com/mx/)
+- ⛰️ Currently doing my Masters in Robotics @[QUT](https://www.qut.edu.au/)
 
-- 🔭 I’ve worked at [KPMG México](https://home.kpmg/mx/es/home.html) and [Sumitomo Drive](https://latam.sumitomodrive.com/es)
+- 🔭 I’ve worked at
+    - DevOps/Software engineer @ [Oracle](https://www.oracle.com/mx/)
+    - RPA develover, Database developer @ [KPMG México](https://home.kpmg/mx/es/home.html)
+    - Co-op ROS AVG with[Sumitomo Drive](https://latam.sumitomodrive.com/es)
 - 🤖 Robotics and digital systems engineer @ [Tec Mty](https://tec.mx/es) 2023
 
 - 🧑🏽‍🏫 I'm a mentor for the Mexican [Robomaster](https://www.robomaster.com/en-US) team, Owltech 
